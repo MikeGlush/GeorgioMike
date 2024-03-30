@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @GeorgioMike
-- 👀 I’m interested in NOT MUCH
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on NOTHING
-- 📫 How to reach me. YOU CANT
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me. ________
 
 <!---
 GeorgioMike/GeorgioMike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
